@@ -1,12 +1,12 @@
 ## Astroberry Project
 
-[Astroberry Project](https://astroberry.io) provides a free and open-source operating system for Raspberry Pi for controlling astronomy equipment.
+[Astroberry Project](https://astroberry.io) provides a free and open-source operating system for controlling astronomy equipment.
 
-[Astroberry OS](https://github.com/astroberry-official/astroberry-os) is a Linux distribution, based on official Raspberry Pi OS system. It runs 64 bit Debian Linux 13 (Trixie) at its heart and provides a collection of software for astronomers and astrophotographers. Users can connect astronomy equipment to a Raspberry Pi, powered by Astroberry OS, and access it using a web browser.
+[Astroberry OS](https://github.com/astroberry-official/astroberry-os) is a Linux distribution, which runs Linux at its heart and provides a collection of software for astronomers and astrophotographers. Users can connect astronomy equipment to a single board computer, powered by Astroberry OS, and access it using a web browser.
 
-[Astroberry OS APT repository](https://astroberry.io/install#apt-repository) provides an online collection of software packages and updates to Astroberry OS system.
+[Astroberry OS APT repository](https://astroberry.io/install#apt-repository) provides an online collection of software Debian packages and updates to Astroberry OS.
 
-### Support us here
+### Support Astroberry Project
 - [Official Website](https://astroberry.io/support/)
 - [GitHub](https://github.com/sponsors/astroberry-official)
 - [Patreon](https://patreon.com/Astroberry)
