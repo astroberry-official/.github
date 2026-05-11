@@ -1,5 +1,8 @@
 ## Astroberry Project
 
+![screenshot](screenshot.jpg)
+
+
 [Astroberry Project](https://astroberry.io) provides a free and open-source operating system for controlling astronomy equipment.
 
 [Astroberry OS](https://github.com/astroberry-official/astroberry-os) is a free and open-source operating system, a Linux distribution, which provides a collection of software for astronomers and astrophotographers for controlling astronomy equipment. With Astroberry OS you can connect your astronomy equipment to a single board computer and access it using a web browser or a remote desktop.
