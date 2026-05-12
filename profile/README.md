@@ -9,5 +9,4 @@
 
 [Astroberry OS APT repository](https://astroberry.io/install#apt-repository) provides an online collection of software Debian packages and updates to Astroberry OS.
 
-### Support Astroberry Project
 [![astroberry.io](astroberry-logo-small.png)](https://astroberry.io/support/) [![GitHub](github-logo-small.png)](https://github.com/sponsors/astroberry-official) [![Patreon](patreon-logo-small.png)](https://patreon.com/Astroberry) [![BuyMeaCoffee](bmc-logo-small.png)](https://buymeacoffee.com/astroberry)
