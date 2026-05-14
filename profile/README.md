@@ -1,4 +1,4 @@
-# Astroberry Project
+# Welcome to Astroberry
 
 [![Astroberry OS](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-image-arm64.yml/badge.svg)](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-image-arm64.yml)
 [![Astroberry OS](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-image-amd64.yml/badge.svg)](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-image-amd64.yml)
@@ -24,4 +24,5 @@
 
 [Astroberry OS APT repository](https://astroberry.io/install#apt-repository) provides an online collection of software Debian packages and updates to Astroberry OS.
 
+##
 [![astroberry.io](astroberry-logo-small.png)](https://astroberry.io/support/) [![GitHub](github-logo-small.png)](https://github.com/sponsors/astroberry-official) [![Patreon](patreon-logo-small.png)](https://patreon.com/Astroberry) [![BuyMeaCoffee](bmc-logo-small.png)](https://buymeacoffee.com/astroberry)
