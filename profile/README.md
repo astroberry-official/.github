@@ -22,5 +22,17 @@
 
 [Astroberry OS APT repository](https://astroberry.io/install#apt-repository) provides an online collection of software Debian packages and updates to Astroberry OS.
 
-##
+## Ask a question
+If you have any questions about Astroberry OS, please ask them on our [Discord](https://discord.gg/Bzhm24VgQu).
+
+## Report an issue
+If you find an issue with Astroberry OS, please report it on the [Issues page](https://github.com/astroberry-official/astroberry-os/issues).
+
+## Contribute
+If you want to contribute to Astroberry Project, please see [Contributing Guidelines](https://github.com/astroberry-official/.github/blob/main/CONTRIBUTING.md).
+
+## Support
+If you find Astroberry OS useful and would like to support us, please consider making a donation through one of the following channels:
+
 [![astroberry.io](astroberry-logo-small.png)](https://astroberry.io/support/) [![GitHub](github-logo-small.png)](https://github.com/sponsors/astroberry-official) [![Patreon](patreon-logo-small.png)](https://patreon.com/Astroberry) [![BuyMeaCoffee](bmc-logo-small.png)](https://buymeacoffee.com/astroberry)
+
