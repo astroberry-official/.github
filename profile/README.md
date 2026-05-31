@@ -1,6 +1,8 @@
 # Welcome to Astroberry
 
-[![astroberry-os](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-release.yml/badge.svg)](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-release.yml)
+
+[![astroberry-os-arm64](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-release-arm64.yml/badge.svg)](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-release-arm64.yml)
+[![astroberry-os-amd64](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-release-amd64.yml/badge.svg)](https://github.com/astroberry-official/astroberry-os/actions/workflows/astroberry-os-release-amd64.yml)
 [![astroberry-manager](https://github.com/astroberry-official/astroberry-os/actions/workflows/build-astroberry-manager.yml/badge.svg)](https://github.com/astroberry-official/astroberry-os/actions/workflows/build-astroberry-manager.yml)
 [![indi-core](https://github.com/astroberry-official/astroberry-os/actions/workflows/build-indi-core.yml/badge.svg)](https://github.com/astroberry-official/astroberry-os/actions/workflows/build-indi-core.yml)
 [![indi-3rdparty-libs](https://github.com/astroberry-official/astroberry-os/actions/workflows/build-indi-3rdparty-libs.yml/badge.svg)](https://github.com/astroberry-official/astroberry-os/actions/workflows/build-indi-3rdparty-libs.yml)
